@@ -47,6 +47,7 @@ So, we have following structure:
              synfig-cli -------> libsynfig
 
 
+
 .. toctree::
    :maxdepth: 1
    :glob:
